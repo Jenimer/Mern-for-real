@@ -1,5 +1,1 @@
-{
-  "mongoURI": "mongodb+srv://Jenimer:3xjmt38^!@devconnect-0sgdb.mongodb.net/devConnect?retryWrites=true&w=majority",
-  "jwtSecret": "whateverwedecidetoken"
 
-}
